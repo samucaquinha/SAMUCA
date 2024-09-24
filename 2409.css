@@ -1,0 +1,23 @@
+*{ margin-top: 0px;
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+header{
+    top: 0%;
+    height: 150px;
+    width: 125%;
+    background-color: black;
+    padding: 50px;
+    text-align: center;
+    font-size: 30px;
+    
+}
+img{
+height: 678px;
+width: 678px;
+}
+
+nav{
+    font-size: 100px;
+}
